@@ -2,7 +2,7 @@
 const testToken = "https://us1.pusherplatform.io/services/chatkit_token_provider/v1/c6ab9330-2632-4567-8c63-4b703ddbfb6a/token"
 const instanceLocator = "v1:us1:c6ab9330-2632-4567-8c63-4b703ddbfb6a"
 const roomId = 9806194
-const username = 'perborgen'
+const username = 'amitsshukla92'
 
 class App extends React.Component {
     constructor() {
